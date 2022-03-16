@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--this is a comment-->
+
+<email date="3/8/2022">
+    <to> md@gmail.com </to>
+    <from> mayur@gmail.com</from>
+    <subject>Application for the post of a PM</subject>
+    <body> PFA resume &lt;1000</body>
+
+</email>

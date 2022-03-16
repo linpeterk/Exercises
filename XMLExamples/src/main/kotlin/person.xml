@@ -1,0 +1,13 @@
+<person id = "101" gender="male" DOB = "234523">
+
+    <gender>male</gender>
+    <firstname>
+        Peter
+    </firstname>
+
+    <lastname>
+        Lin
+    </lastname>
+
+
+</person>

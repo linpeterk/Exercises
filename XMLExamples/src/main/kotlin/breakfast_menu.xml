@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<breakfast_menu>
+
+    <food>
+        <name>Waffles</name>
+        <price>$6</price>
+        <descrip>ZYZ</descrip>
+        <calories>1000</calories>
+
+    </food>
+
+    <food>
+        <name>Waffles</name>
+        <price>$6</price>
+        <descrip>ZYZ</descrip>
+        <calories>1000</calories>
+        <bums>small</bums>
+
+    </food>
+
+    <food>
+        <name>Waffles</name>
+        <price>$6</price>
+        <descrip>ZYZ</descrip>
+        <calories>1000</calories>
+
+    </food>
+
+    <food>
+        <name>Waffles</name>
+        <price>$6</price>
+        <descrip>ZYZ</descrip>
+        <calories>1000</calories>
+
+    </food>
+
+</breakfast_menu>
